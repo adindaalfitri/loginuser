@@ -5,19 +5,19 @@ $siswa = [
         "nama" => "Adinda",
         "alamat" => "Tenggumung",
         "no" => "045612342",
-        "foto" => "adinda.jpeg"
+        "foto" => "img/adinda.jpeg"
     ],
     [
         "nama" => "Fitri",
         "alamat" => "Bulak banteng",
         "no" => "089765329",
-        "foto" => "fitri.jpeg"
+        "foto" => "img/fitri.jpeg"
     ],
     [
         "nama" => "Hutomo",
         "alamat" => "Wonosari",
         "no" => "034127332",
-        "foto" => "hutomo.jpeg"
+        "foto" => "img/hutomo.jpeg"
     ]
 
 ];
