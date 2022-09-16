@@ -16,17 +16,17 @@
         </tr>
         <tr>
             <td>1</td>
-            <td><img src="adinda.jpeg" width="200px"></td>
+            <td><img src="img/adinda.jpeg" width="200px"></td>
             <td>Adinda</td>
         </tr>
         <tr>
             <td>2</td>
-            <td><img src="fitri.jpeg" width="200px"></td>
+            <td><img src="img/fitri.jpeg" width="200px"></td>
             <td>Fitri</td>
         </tr>
         <tr>
             <td>3</td>
-            <td><img src="hutomo.jpeg" width="200px"></td>
+            <td><img src="img/hutomo.jpeg" width="200px"></td>
             <td>Hutomo</td>
         </tr>
     </table>
